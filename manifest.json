@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "FocusTab - Bloqueur de Distractions",
+  "version": "1.0",
+  "description": "Bloque les sites distrayants pour améliorer la concentration.",
+  "permissions": ["storage", "declarativeNetRequest"],
+  "host_permissions": ["*://*/*"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icon.png",
+      "48": "icon.png",
+      "128": "icon.png"
+    }
+  }
+}
