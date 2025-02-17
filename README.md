@@ -1,6 +1,8 @@
 # **FocusTab** - 🧑‍💻 Bloqueur de Distractions 🎯
 
-![FocusTab Logo](./assets/logo.png)  *(Ajoute ici un logo ou une image fun!)*
+<img width="13" alt="image" src="https://github.com/user-attachments/assets/2f35d3e8-dca1-425a-9948-d716bd8a114d" />
+<img width="280" alt="image" src="https://github.com/user-attachments/assets/71ef6ba1-1d66-4a44-b48f-97570cf2961b" />
+
 
 **FocusTab** est une extension Chrome super fun pour t'aider à **rester concentré** ! 🚀 Dis adieu aux distractions en bloquant tes sites préférés (mais pas quand tu travailles 😜). Suis ton temps bloqué avec un **compteur rétro** comme un jeu vidéo ! 🎮⏳
 
@@ -76,7 +78,9 @@ Ce projet est sous la **MIT License** - consulte le fichier [LICENSE](LICENSE) p
 
 Voici à quoi ressemble **FocusTab** en action :
 
-![FocusTab Screenshot](./assets/screenshot.png)
+<img width="280" alt="image" src="https://github.com/user-attachments/assets/5fa87f50-6c60-4e0f-a577-e96181c660fd" />
+
+
 
 ---
 
